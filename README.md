@@ -1,4 +1,4 @@
-## 꿀 빨고 싶은 개발자. 👋
+## 꿀 빨고 싶은 개발자.
 
 <div align="center"><h1>📜 Career</h1></div>
 <table align="center">
@@ -14,6 +14,11 @@
       <td><strong>2024.07</strong></td>
       <td>Intern at HL Mando MSI (Bangalore, India <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png" alt="India Flag" style="width:20px; vertical-align:middle;">)</td>
       <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>2024.07</strong></td>
+      <td>INDO.KOREA International Conference 2024</td>
+      <td>참가상</td>
     </tr>
     <tr>
       <td><strong>2024.11</strong></td>
