@@ -11,8 +11,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>2024.07</strong></td>
-      <td>Intern at HL Mando MSI (Bangalore, India <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png" alt="India Flag" style="width:20px; vertical-align:middle;">)</td>
+      <td><strong>2024.06~2024.07</strong></td>
+      <td>Intern at HL Mando MSI (Bangaluru, India <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png" alt="India Flag" style="width:20px; vertical-align:middle;">)</td>
       <td>-</td>
     </tr>
     <tr>
@@ -29,6 +29,11 @@
       <td><strong>2024.12</strong></td>
       <td>산학프로젝트 경진대회 데이터스트림즈팀</td>
       <td>우수상</td>
+    </tr>
+    <tr>
+      <td><strong>2024.09~2024.12</strong></td>
+      <td>KNU 자료구조응용 튜터</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
