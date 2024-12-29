@@ -38,7 +38,7 @@
   </tbody>
 </table>
 
-<div align="center"><h1>📚 Languages and Stacks</h1></div>
+<div align="center"><h1>📚 Languages and Stacks and Environment</h1></div>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
