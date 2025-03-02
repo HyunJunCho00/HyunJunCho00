@@ -1,4 +1,4 @@
-## 꿀 빨고 싶은 개발자.
+## My dream is to be a developer
 
 <div align="center"><h1>📜 Career</h1></div>
 <table align="center">
