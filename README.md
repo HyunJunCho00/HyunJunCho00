@@ -1,4 +1,7 @@
-## My dream is to be a developer
+<div align="center">
+  <h1>✨ My Dream To Be a Developer 💻</h1>
+</div>
+
 
 <div align="center"><h1>📜 Career</h1></div>
 <table align="center">
