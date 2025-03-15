@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ My Dream To Be a Developer 💻</h1>
+  <h1>✨ My Name is HyunJunCho 💻</h1>
 </div>
 
 
