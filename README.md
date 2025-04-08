@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>✨ My Name is HyunJunCho 💻</h1>
-</div>
-
 
 <div align="center"><h1>📜 Career</h1></div>
 <table align="center">
@@ -36,6 +32,11 @@
     <tr>
       <td><strong>2024.09~2024.12</strong></td>
       <td>KNU 자료구조응용 튜터</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>2025.04.04</strong></td>
+      <td>SQLD 자격증 취득</td>
       <td>-</td>
     </tr>
   </tbody>
