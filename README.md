@@ -39,6 +39,11 @@
       <td>SQLD 자격증 취득</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td><strong>2025.04~2025.11</strong></td>
+      <td>카카오테크 캠퍼스 3기 (Backend)</td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
 
