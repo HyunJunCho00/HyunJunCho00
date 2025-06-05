@@ -20,18 +20,18 @@
       <td>참가상</td>
     </tr>
     <tr>
-      <td><strong>2024.11</strong></td>
+      <td><strong>2024.11.22</strong></td>
       <td>추계한국정보기술학회 우수논문상</td>
       <td>동상</td>
     </tr>
     <tr>
-      <td><strong>2024.12</strong></td>
+      <td><strong>2024.12.12</strong></td>
       <td>산학프로젝트 경진대회 데이터스트림즈팀</td>
       <td>우수상</td>
     </tr>
     <tr>
       <td><strong>2024.09~2024.12</strong></td>
-      <td>KNU 자료구조응용 튜터</td>
+      <td>KNU 자료구조응용(COMP0216-004) 튜터</td>
       <td>-</td>
     </tr>
     <tr>
@@ -42,6 +42,11 @@
     <tr>
       <td><strong>2025.04~</strong></td>
       <td>카카오테크 캠퍼스 3기 (Backend)</td>
+      <td>-</td>
+    </tr>
+        <tr>
+      <td><strong>2025.06.13</strong></td>
+      <td>ADSP 자격증 취득</td>
       <td>-</td>
     </tr>
   </tbody>
