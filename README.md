@@ -21,6 +21,16 @@
       <td>참가상</td>
     </tr>
     <tr>
+      <td><strong>2024.09~2024.12</strong></td>
+      <td>종합설계프로젝트I - RAG 기반 AI 챗봇 서비스 개발 (RAG 개발 담당)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>2024.09~2024.12</strong></td>
+      <td>KNU 자료구조응용(COMP0216-004) 튜터</td>
+      <td>-</td>
+    </tr>
+    <tr>
       <td><strong>2024.11.22</strong></td>
       <td>추계한국정보기술학회 우수논문상</td>
       <td>동상</td>
@@ -29,11 +39,6 @@
       <td><strong>2024.12.12</strong></td>
       <td>산학프로젝트 경진대회 데이터스트림즈팀</td>
       <td>우수상</td>
-    </tr>
-    <tr>
-      <td><strong>2024.09~2024.12</strong></td>
-      <td>KNU 자료구조응용(COMP0216-004) 튜터</td>
-      <td>-</td>
     </tr>
     <tr>
       <td><strong>2025.04~</strong></td>
@@ -47,6 +52,7 @@
     </tr>
   </tbody>
 </table>
+
 
 <br>
 
