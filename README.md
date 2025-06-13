@@ -1,6 +1,7 @@
-
-<div align="center"><h1>📜 Career</h1></div>
-<table align="center">
+<div align="center">
+  <h1 style="font-size:2em;">🚀 Career Highlights</h1>
+</div>
+<table align="center" border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
       <th>Date</th>
@@ -11,7 +12,7 @@
   <tbody>
     <tr>
       <td><strong>2024.06~2024.07</strong></td>
-      <td>Intern at HL Mando MSI (Bangaluru, India <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png" alt="India Flag" style="width:20px; vertical-align:middle;">)</td>
+      <td>Intern at HL Mando MSI (Bangalore, India <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png" alt="India Flag" style="width:20px; vertical-align:middle;">)</td>
       <td>-</td>
     </tr>
     <tr>
@@ -35,24 +36,51 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><strong>2025.04.04</strong></td>
-      <td>SQLD 자격증 취득</td>
-      <td>-</td>
-    </tr>
-    <tr>
       <td><strong>2025.04~</strong></td>
       <td>카카오테크 캠퍼스 3기 (Backend)</td>
       <td>-</td>
     </tr>
-        <tr>
-      <td><strong>2025.06.13</strong></td>
-      <td>ADSP 자격증 취득</td>
+    <tr>
+      <td><strong>2025.07~2025.08</strong></td>
+      <td>Qualcomm Institute AI Entrepreneurship Program (San Diego, USA <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" style="width:20px; vertical-align:middle;">)</td>
       <td>-</td>
     </tr>
   </tbody>
 </table>
 
-<div align="center"><h1>📚 Languages and Stacks and Environment</h1></div>
+<br>
+
+<div align="center">
+  <h1 style="font-size:2em;">📚 Certification</h1>
+</div>
+<table align="center" border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Certification</th>
+      <th>비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>2025.04.04</strong></td>
+      <td>SQLD 자격증 취득</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>2025.06.13</strong></td>
+      <td>ADSP 자격증 취득</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>2025.06.13</strong></td>
+      <td>정보처리기사 자격증 취득</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center"><h1> 📜 Languages and Stacks and Environment</h1></div>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
