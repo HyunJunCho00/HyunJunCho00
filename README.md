@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size:2em;">🚀 Career Highlights</h1>
+  <h1 style="font-size:2em;">🚀 Career Timeline</h1>
 </div>
 <table align="center" border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -46,15 +46,22 @@
       <td>-</td>
     </tr>
     <tr>
+      <td><strong>2025.05~</strong></td>
+      <td>AICOSS DDIP 프로젝트 (AI 모델 개발)</td>
+      <td>-</td>
+    </tr>
+    <tr>
       <td><strong>2025.07~2025.08</strong></td>
       <td>Qualcomm Institute AI Entrepreneurship Program (San Diego, USA <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" style="width:20px; vertical-align:middle;">)</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td><strong>2025.08</strong></td>
+      <td>카카오테크 캠퍼스 Ideathon</td>
+      <td>우수상</td>
+    </tr>
   </tbody>
 </table>
-
-
-<br>
 
 <div align="center">
   <h1 style="font-size:2em;">📚 Certification</h1>
