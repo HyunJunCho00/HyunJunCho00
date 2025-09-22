@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td><strong>2025.09~</strong></td>
-      <td><strong>종합설계프로젝트II - AI 기반 설명 가능한 이더리움 예측 시스템 개발</strong> 시계열 모델 개발 담당</td>
+      <td><strong>종합설계프로젝트II - AI 기반 설명 가능한 이더리움 예측 시스템 개발</strong> (시계열 모델 개발 담당) </td>
       <td></td>
     </tr>
   </tbody>
