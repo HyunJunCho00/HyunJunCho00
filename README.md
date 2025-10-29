@@ -46,7 +46,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><strong>2025.05~</strong></td>
+      <td><strong>2025.05~2025.10</strong></td>
       <td><strong>AICOSS DDIP 프로젝트</strong> ('정보거래시스템' 가격 예측 On-device AI 모델 개발)</td>
       <td>-</td>
     </tr>
