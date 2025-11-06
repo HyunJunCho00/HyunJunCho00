@@ -41,7 +41,7 @@
       <td>우수상</td>
     </tr>
     <tr>
-      <td><strong>2025.04~</strong></td>
+      <td><strong>2025.04~2024.11</strong></td>
       <td><strong>카카오테크 캠퍼스 3기</strong> (Backend)</td>
       <td>-</td>
     </tr>
@@ -61,13 +61,13 @@
       <td>우수상</td>
     </tr>
     <tr>
-      <td><strong>2025.09~</strong></td>
+      <td><strong>2025.08~2025.11</strong></td>
       <td><strong>카카오테크 캠퍼스 team project</strong> ('이력서형상관리시스템'프로젝트 개발)</td>
       <td></td>
     </tr>
     <tr>
-      <td><strong>2025.09~</strong></td>
-      <td><strong>종합설계프로젝트II - AI 기반 설명 가능한 이더리움 예측 시스템 개발</strong> (시계열 모델 개발 담당) </td>
+      <td><strong>2025.09~2025.12</strong></td>
+      <td><strong>종합설계프로젝트II - AI 기반 설명 가능한 이더리움 예측 시스템 개발</strong> (AI 모델 개발 담당) </td>
       <td></td>
     </tr>
   </tbody>
