@@ -1,6 +1,7 @@
 <div align="center">
-  <h1 style="font-size:2em;">🚀 Career Timeline</h1>
+  <h1 style="font-size:2em;">🚀 Career</h1>
 </div>
+
 <table align="center" border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -9,17 +10,7 @@
       <th>비고</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td><strong>2024.06~2024.07</strong></td>
-      <td><strong>Intern at HL Mando MSI</strong> (Bangalore, India <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png" alt="India Flag" style="width:20px; vertical-align:middle;">)</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td><strong>2024.07</strong></td>
-      <td><strong>INDO.KOREA International Conference 2024</strong></td>
-      <td>참가상</td>
-    </tr>
+  <tbody> <tr> <td><strong>2024.06~2024.07</strong></td> <td><strong>Intern at HL Mando MSI</strong> (Bangalore, India <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png" alt="India Flag" style="width:20px; vertical-align:middle;">)</td> <td>-</td> </tr>
     <tr>
       <td><strong>2024.09~2024.12</strong></td>
       <td><strong>종합설계프로젝트I - RAG 기반 AI 챗봇 서비스 개발</strong> (RAG 개발 담당)</td>
@@ -31,17 +22,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><strong>2024.11.22</strong></td>
-      <td><strong>추계한국정보기술학회 우수논문상</strong></td>
-      <td>동상</td>
-    </tr>
-    <tr>
-      <td><strong>2024.12.12</strong></td>
-      <td><strong>산학프로젝트 경진대회</strong> 데이터스트림즈팀</td>
-      <td>우수상</td>
-    </tr>
-    <tr>
-      <td><strong>2025.04~2024.11</strong></td>
+      <td><strong>2025.04~2025.11</strong></td>
       <td><strong>카카오테크 캠퍼스 3기</strong> (Backend)</td>
       <td>-</td>
     </tr>
@@ -51,9 +32,48 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><strong>2025.07~2025.08</strong></td>
-      <td><strong>Qualcomm Institute AI Entrepreneurship Program</strong> (San Diego, USA <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" style="width:20px; vertical-align:middle;">)</td>
+      <td><strong>2025.07~2025.08</strong></td> <td><strong>Qualcomm Institute AI Entrepreneurship Program</strong> (San Diego, USA <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" style="width:20px; vertical-align:middle;">)</td> <td>-</td> </tr>
+    <tr>
+      <td><strong>2025.08~2025.11</strong></td>
+      <td><strong>카카오테크 캠퍼스 Team Project</strong> ('이력서형상관리시스템' 프로젝트 개발)</td>
       <td>-</td>
+    </tr>
+    <tr>
+      <td><strong>2025.09~2025.12</strong></td>
+      <td><strong>종합설계프로젝트II - AI 기반 설명 가능한 이더리움 예측 시스템 개발</strong> (AI 모델 개발 담당)</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<div align="center">
+  <h1 style="font-size:2em;">🏆 Awards</h1>
+</div>
+
+<table align="center" border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Award</th>
+      <th>비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>2024.07</strong></td>
+      <td><strong>INDO.KOREA International Conference 2024</strong></td>
+      <td>참가상</td>
+    </tr>
+    <tr>
+      <td><strong>2024.11.22</strong></td>
+      <td><strong>추계한국정보기술학회 우수논문상</strong></td>
+      <td>동상</td>
+    </tr>
+    <tr>
+      <td><strong>2024.12.12</strong></td>
+      <td><strong>산학프로젝트 경진대회</strong> (데이터스트림즈팀)</td>
+      <td>우수상</td>
     </tr>
     <tr>
       <td><strong>2025.08</strong></td>
@@ -61,26 +81,23 @@
       <td>우수상</td>
     </tr>
     <tr>
-      <td><strong>2025.08~2025.11</strong></td>
-      <td><strong>카카오테크 캠퍼스 team project</strong> ('이력서형상관리시스템'프로젝트 개발)</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>2025.09~2025.12</strong></td>
-      <td><strong>종합설계프로젝트II - AI 기반 설명 가능한 이더리움 예측 시스템 개발</strong> (AI 모델 개발 담당) </td>
-      <td></td>
-    </tr>
-    <tr>
       <td><strong>2025.11</strong></td>
       <td><strong>SW창업경진대회</strong></td>
       <td>우수상</td>
     </tr>
+    <tr>
+      <td><strong>2025.11.28</strong></td>
+      <td><strong>추계한국정보기술학회 우수논문상</strong></td>
+      <td>동상</td>
+    </tr>
   </tbody>
 </table>
+
 
 <div align="center">
   <h1 style="font-size:2em;">📚 Certification</h1>
 </div>
+
 <table align="center" border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -105,8 +122,14 @@
       <td>정보처리기사 자격증 취득</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td><strong>2025.12.19</strong></td>
+      <td>빅데이터분석기사 자격증 취득</td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
+
 
 <div align="center"><h1> 📜 Languages and Stacks and Environment</h1></div>
 
