@@ -127,6 +127,11 @@
       <td>빅데이터분석기사 자격증 취득</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td><strong>2026.02.20</strong></td>
+      <td>한국사 1급 취득</td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
 
