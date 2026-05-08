@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td><strong>2024.09~2024.12</strong></td>
-      <td><strong>KNU 자료구조응용(COMP0216-004) 튜터</strong></td>
+      <td><strong>자료구조응용 튜터</strong></td>
       <td>-</td>
     </tr>
     <tr>
